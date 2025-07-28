@@ -92,7 +92,8 @@ As the **Data Analyst**, I was responsible for:
 
 | 📍 Data Model                                    | 📈 Dashboard Sample               |
 |--------------------------------------------------|-----------------------------------|
-| ![Data Model](./Sales-Dashboard/Luson%20Blu%20Analysis%20Data%20Model.png) | *(Add actual dashboard image here)* |
+| ![Data Model](https://github.com/Peace-Igwe/Power-App-Request-Portal/blob/main/Sales-Dashboard/Luson-Blu-Analysis-Data-Model.png) | ![Dashboard](https://github.com/Peace-Igwe/Power-App-Request-Portal/blob/main/Sales-Dashboard/d8e571fa-07b8-41bb-bba7-74851884fd5c.png) |
+|
 
 ---
 
