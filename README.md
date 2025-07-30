@@ -73,7 +73,7 @@ As the **Data Analyst**, I was responsible for:
 
 ## ✨ Key Insights
 
-- 🔥 A mid-range product—not in the top 10 by volume or revenue—drove the **highest profit margin**, signaling a powerful bundling opportunity.
+- 🔥 A mid-range product, not in the top 10 by volume or revenue drove the **highest profit margin**, signaling a powerful bundling opportunity.
 - 🧊 Some warehouses had high capacity usage with **low stock turnover**, indicating inventory risk.
 - 🧑‍🤝‍🧑 Customers with mid-range loyalty scores contributed disproportionately to sales, revealing untapped retention strategies.
 
@@ -92,7 +92,7 @@ As the **Data Analyst**, I was responsible for:
 
 | 📍 Data Model                                    | 📈 Dashboard Sample               |
 |--------------------------------------------------|-----------------------------------|
-| ![Data Model](https://github.com/Peace-Igwe/Sales-Dashboard/blob/main/Lusom%20Blu%20Analysis%20Data%20Model.png) |
+![Data Model](./Luson-Blu-Analysis-Data-Model.png)
 
 ---
 
